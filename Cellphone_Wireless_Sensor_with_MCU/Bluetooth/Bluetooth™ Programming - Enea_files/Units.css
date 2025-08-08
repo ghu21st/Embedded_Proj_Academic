@@ -1,0 +1,156 @@
+#ToolBar {
+	
+}
+#ToolBar .Accessability {
+	FLOAT: left; WIDTH: 150px; LINE-HEIGHT: 0
+}
+#ToolBar .Accessability INPUT {
+	DISPLAY: block; FLOAT: left; MARGIN-RIGHT: 5px
+}
+#ToolBar .QuickMenu {
+	FLOAT: right; WIDTH: 500px; TEXT-ALIGN: right
+}
+#ToolBar .QuickMenu .Drop {
+	FLOAT: right
+}
+#ToolBar .QuickMenu .EmLink {
+	FLOAT: right; LINE-HEIGHT: 20px; MARGIN-RIGHT: 0px
+}
+#MastHead {
+	BACKGROUND-IMAGE: url($mastheadImage); POSITION: relative; HEIGHT: 90px
+}
+#MastHead #StartPageLink {
+	POSITION: absolute; TEXT-DECORATION: none
+}
+#MastHead #PfizerLink {
+	POSITION: absolute; TEXT-DECORATION: none
+}
+#MastHead #StartPageLink {
+	LEFT: 10px; BOTTOM: 15px
+}
+#MastHead #StartPageLink H1 {
+	MARGIN: 0px; COLOR: #fff; LINE-HEIGHT: 1em
+}
+#MastHead #PfizerLink {
+	RIGHT: 10px; WIDTH: 60px; TOP: 10px; HEIGHT: 40px
+}
+#MastHeadSpacer {
+	OVERFLOW: hidden; HEIGHT: 20px; BACKGROUND-COLOR: transparent
+}
+#QuickMenu {
+	RIGHT: 10px; BOTTOM: 15px; LINE-HEIGHT: 1em; POSITION: absolute
+}
+#QuickMenu {
+	COLOR: #fff
+}
+#QuickMenu A {
+	COLOR: #fff
+}
+#DropDownMenu {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#DropDownMenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#DropDownMenu LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; WHITE-SPACE: nowrap
+}
+#DropDownMenu A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; CURSOR: default; PADDING-TOP: 5px; user-select: none; moz-user-select: none; khtml-user-select: none
+}
+#DropDownMenu LI UL {
+	BORDER-TOP-WIDTH: 0px; Z-INDEX: 9999; LEFT: -999em; WIDTH: 200px; POSITION: absolute; BACKGROUND-COLOR: #fff
+}
+#DropDownMenu LI UL LI {
+	WIDTH: 100%; WHITE-SPACE: normal
+}
+#DropDownMenu LI:hover UL {
+	LEFT: auto
+}
+ HTML #DropDownMenu LI {
+	HEIGHT: 1px
+}
+ HTML #DropDownMenu LI UL A {
+	HEIGHT: 1px
+}
+.TreeMenu {
+	MARGIN-BOTTOM: 20px
+}
+.MenuMainItem {
+	LINE-HEIGHT: 0
+}
+.TreeMenu A {
+	DISPLAY: block; COLOR: #999999
+}
+.TreeMenu .MenuLineTop {
+	BORDER-TOP: #d9d9d9 1px solid; MARGIN-TOP: 10px; PADDING-TOP: 10px
+}
+.TreeMenu .MenuItem {
+	MARGIN-TOP: 10px
+}
+.TreeMenu .Selected A {
+	FONT-WEIGHT: bold; COLOR: #a9001f
+}
+.TreeMenu .Expanded A {
+	FONT-WEIGHT: bold; COLOR: #333333
+}
+.TreeMenu .Level1 A {
+	PADDING-LEFT: 0px
+}
+.TreeMenu .Level2 A {
+	PADDING-LEFT: 10px
+}
+.TreeMenu .Level3 A {
+	PADDING-LEFT: 20px
+}
+.TreeMenu .Level4 A {
+	PADDING-LEFT: 30px
+}
+ HTML .TreeMenu LI {
+	HEIGHT: 1px
+}
+ HTML .TreeMenu A {
+	HEIGHT: 1px
+}
+#PageFooter {
+	CLEAR: both; FONT-SIZE: 0.9em; LINE-HEIGHT: normal
+}
+#PopupFooter {
+	CLEAR: both; FONT-SIZE: 0.9em; LINE-HEIGHT: normal
+}
+#PopupFooter {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px
+}
+#PageFooter A {
+	
+}
+#PopupFooter A {
+	
+}
+#PageFooter .FooterContent {
+	DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 15px; WIDTH: 620px
+}
+#PageFooter .LifInfo {
+	DISPLAY: inline; FLOAT: right; WIDTH: 120px; MARGIN-RIGHT: 15px; TEXT-ALIGN: right; TEXT-DECORATION: none
+}
+#PageFooter .LifInfo IMG {
+	FLOAT: right; MARGIN-LEFT: 10px
+}
+#BreadCrumb {
+	
+}
+#BreadCrumb A {
+	WHITE-SPACE: nowrap
+}
+#BreadCrumb .Selected {
+	FONT-WEIGHT: bold
+}
+.PageTools .Info {
+	FLOAT: left; WIDTH: 200px
+}
+.PageTools .Tools {
+	FLOAT: right; WIDTH: 200px
+}
+.PageTools .IconLink {
+	DISPLAY: block; MARGIN-BOTTOM: 5px
+}

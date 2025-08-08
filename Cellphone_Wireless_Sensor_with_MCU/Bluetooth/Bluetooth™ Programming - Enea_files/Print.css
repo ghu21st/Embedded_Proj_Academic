@@ -1,0 +1,27 @@
+.NoPrint {
+	DISPLAY: none
+}
+#Outside {
+	DISPLAY: none
+}
+#Toolbar {
+	DISPLAY: none
+}
+#PageHeader {
+	DISPLAY: none
+}
+#PageFooter {
+	DISPLAY: none
+}
+#PageEnd {
+	DISPLAY: none
+}
+#Left {
+	DISPLAY: none
+}
+#Body {
+	WIDTH: 100%
+}
+#Page {
+	WIDTH: auto
+}

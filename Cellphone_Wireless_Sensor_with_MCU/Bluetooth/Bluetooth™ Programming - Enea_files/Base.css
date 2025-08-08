@@ -1,0 +1,285 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BEHAVIOR: url(/Styles/Styles2/csshover.htc); BACKGROUND-COLOR: #e8e8e8
+}
+HTML {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial,Sans-Serif
+}
+BODY {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial,Sans-Serif
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial,Sans-Serif
+}
+TH {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial,Sans-Serif
+}
+BODY.FontSize1 {
+	FONT-SIZE: 1.3em
+}
+BODY.FontSize1 TD {
+	FONT-SIZE: 1.3em
+}
+BODY.FontSize1 TH {
+	FONT-SIZE: 1.3em
+}
+BODY.FontSize2 {
+	FONT-SIZE: 1.5em
+}
+BODY.FontSize2 TD {
+	FONT-SIZE: 1.5em
+}
+BODY.FontSize2 TH {
+	FONT-SIZE: 1.5em
+}
+P {
+	MARGIN-BOTTOM: 10px; LINE-HEIGHT: 1.4em
+}
+.Ingress {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px
+}
+A {
+	COLOR: #a9001f; TEXT-DECORATION: none
+}
+A FONT {
+	COLOR: #a9001f; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:hover IMG {
+	TEXT-DECORATION: none
+}
+.EmLink {
+	COLOR: #999999
+}
+.EmLink .Attribute {
+	MARGIN: 0px 2px; TEXT-DECORATION: none
+}
+.EmLink:hover .Attribute {
+	MARGIN: 0px 2px; TEXT-DECORATION: none
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.ImageBlock {
+	DISPLAY: block; LINE-HEIGHT: 0
+}
+.TextSeparator {
+	MARGIN: 0px 3px
+}
+.Block {
+	CLEAR: both; DISPLAY: block; MARGIN-BOTTOM: 10px
+}
+.BlockItem {
+	CLEAR: both; DISPLAY: block; MARGIN-BOTTOM: 10px
+}
+.BlockHeader {
+	CLEAR: both; DISPLAY: block; MARGIN-BOTTOM: 10px
+}
+HR {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #d9d9d9; HEIGHT: 1px; BACKGROUND-COLOR: #d9d9d9; BORDER-RIGHT-WIDTH: 0px
+}
+CODE {
+	DISPLAY: block; FONT-SIZE: 10px; COLOR: #006; FONT-FAMILY: Courier New, Courier; BACKGROUND-COLOR: #eee
+}
+.Label {
+	FONT-WEIGHT: bold
+}
+H1 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H2 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H3 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H4 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H5 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H6 {
+	MARGIN: 0.4em 0px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+H1 {
+	FONT-SIZE: 1.5em; COLOR: #333333
+}
+H2 {
+	FONT-SIZE: 1.25em; COLOR: #333333
+}
+H3 {
+	FONT-SIZE: 1.1em; COLOR: #333333
+}
+H4 {
+	FONT-SIZE: 1em
+}
+H5 {
+	FONT-SIZE: 1em
+}
+H6 {
+	FONT-SIZE: 1em
+}
+.Block:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.FloatContainer:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+ HTML .Block {
+	HEIGHT: 1px
+}
+ HTML .FloatContainer {
+	HEIGHT: 1px
+}
+UL {
+	MARGIN: 0px 0px 1em 16px
+}
+OL {
+	MARGIN: 0px 0px 1em 16px
+}
+DL {
+	MARGIN: 0px 0px 1em 16px
+}
+LI {
+	MARGIN: 0.3em; VERTICAL-ALIGN: middle
+}
+TABLE {
+	border-spacing: 0px; empty-cells: show
+}
+ HTML TABLE {
+	BORDER-COLLAPSE: collapse
+}
+TABLE {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TD {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH {
+	TEXT-ALIGN: left
+}
+.PagerBar TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 10px; COLOR: #6699aa; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+.PagerBar A {
+	VERTICAL-ALIGN: middle; COLOR: #333333
+}
+.PagerBar .PageSpacer {
+	MARGIN: 0px 3px; COLOR: #333333
+}
+.PagerBar .PreviousPage {
+	MARGIN-RIGHT: 5px
+}
+.PagerBar .NextPage {
+	MARGIN-LEFT: 5px
+}
+.Clickable:hover {
+	CURSOR: pointer; COLOR: #999999
+}
+.DateLabel {
+	FONT-SIZE: 0.9em; COLOR: #666666; TEXT-DECORATION: none
+}
+.ImageText {
+	FONT-SIZE: 0.9em; FONT-STYLE: italic
+}
+.IconLink .Icon {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 4px; TEXT-DECORATION: none
+}
+.BreadCrumb {
+	MARGIN-BOTTOM: 10px
+}
+.BreadCrumb A {
+	COLOR: #999999
+}
+.BreadCrumb .CurrentPage {
+	COLOR: #333333
+}
+.Delimited {
+	BORDER-RIGHT: #d9d9d9 1px solid; BORDER-TOP: #d9d9d9 1px solid; BORDER-LEFT: #d9d9d9 1px solid; BORDER-BOTTOM: #d9d9d9 1px solid; BACKGROUND-COLOR: transparent
+}
+.Delimited H3 {
+	MARGIN: 9px 9px 10px
+}
+.Delimited .BlockContent {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 9px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.BlockContent {
+	MARGIN: 0px 0px 9px
+}
+.StylePanel-TopLayer {
+	DISPLAY: none
+}
+.StylePanel-BottomLayer {
+	DISPLAY: none
+}
+.Header1 {
+	DISPLAY: block
+}
+.Header2 {
+	DISPLAY: block
+}
+.Header3 {
+	DISPLAY: block
+}
+.Header4 {
+	DISPLAY: block
+}
+.Bullet {
+	DISPLAY: block; MARGIN: 5px 0px
+}
+.ContentBlock {
+	MARGIN-BOTTOM: 15px
+}
+#Outside .ContentBlock {
+	MARGIN-BOTTOM: 10px
+}
+.ContentBlock .ListItem {
+	MARGIN-BOTTOM: 10px
+}
+.ContentBlock .Date {
+	DISPLAY: block; COLOR: #999999
+}
+.ContentBlock .ListHeader {
+	DISPLAY: block; FONT-WEIGHT: bold; COLOR: #333333
+}
+.ContentBlock .ListIntro {
+	DISPLAY: block; COLOR: #333333
+}
+.Listing A:hover {
+	CURSOR: hand; TEXT-DECORATION: none
+}
+.searchselector {
+	WIDTH: 250px
+}

@@ -1,0 +1,249 @@
+.StandardForm {
+	HEIGHT: 0%
+}
+.RegistrationForm {
+	HEIGHT: 0%
+}
+.InputBlock {
+	MARGIN-BOTTOM: 0.1em
+}
+.RegistrationForm .InputBlock {
+	FLOAT: left; WIDTH: 50%
+}
+.RegistrationForm .Wide {
+	CLEAR: left; FLOAT: none; WIDTH: 100%
+}
+.ButtonBlock {
+	CLEAR: both; PADDING-TOP: 1em; TEXT-ALIGN: right
+}
+INPUT.TextBox {
+	VERTICAL-ALIGN: middle
+}
+.TextBox INPUT {
+	VERTICAL-ALIGN: middle
+}
+TEXTAREA {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+.RadioButton {
+	VERTICAL-ALIGN: middle
+}
+.RadioButton INPUT {
+	VERTICAL-ALIGN: middle
+}
+.RadioButtonList INPUT {
+	VERTICAL-ALIGN: middle
+}
+.CheckBox {
+	VERTICAL-ALIGN: middle
+}
+.CheckBox INPUT {
+	VERTICAL-ALIGN: middle
+}
+.CheckBoxList INPUT {
+	VERTICAL-ALIGN: middle
+}
+.Button {
+	VERTICAL-ALIGN: middle
+}
+LABEL {
+	VERTICAL-ALIGN: middle
+}
+.InputLabel {
+	VERTICAL-ALIGN: middle
+}
+LABEL {
+	FONT-WEIGHT: bold; MARGIN-RIGHT: 0.5em
+}
+.InputLabel {
+	FONT-WEIGHT: bold; MARGIN-RIGHT: 0.5em
+}
+.DisplayLabel {
+	FONT-WEIGHT: bold; MARGIN-RIGHT: 0.5em
+}
+.StandardForm LABEL {
+	CLEAR: left; FLOAT: left; WIDTH: 150px
+}
+.RegistrationForm LABEL {
+	DISPLAY: block
+}
+.RegistrationForm .InputBlock .CheckBox LABEL {
+	DISPLAY: inline
+}
+INPUT.TextBox {
+	BORDER-RIGHT: #b5b5b5 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #b5b5b5 1px solid; PADDING-LEFT: 1px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 1px; BORDER-LEFT: #b5b5b5 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+.TextBox INPUT {
+	BORDER-RIGHT: #b5b5b5 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #b5b5b5 1px solid; PADDING-LEFT: 1px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 1px; BORDER-LEFT: #b5b5b5 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+TEXTAREA {
+	BORDER-RIGHT: #b5b5b5 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #b5b5b5 1px solid; PADDING-LEFT: 1px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 1px; BORDER-LEFT: #b5b5b5 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+INPUT.TextBox {
+	FONT: 1em Arial; WIDTH: 150px; COLOR: #333333
+}
+.TextBox INPUT {
+	FONT: 1em Arial; WIDTH: 150px; COLOR: #333333
+}
+SELECT {
+	FONT: 1em Arial; WIDTH: 150px; COLOR: #333333
+}
+SELECT OPTION {
+	FONT: 1em Arial; WIDTH: 150px; COLOR: #333333
+}
+TEXTAREA {
+	FONT: 1em Arial; WIDTH: 150px; COLOR: #333333
+}
+.Wide INPUT.TextBox {
+	WIDTH: 250px
+}
+.Wide .TextBox INPUT {
+	WIDTH: 250px
+}
+.Wide SELECT {
+	WIDTH: 250px
+}
+.Wide SELECT OPTION {
+	WIDTH: 250px
+}
+INPUT.SmallInput {
+	WIDTH: 50px
+}
+SELECT.SmallInput {
+	WIDTH: 50px
+}
+.SmallInput OPTION {
+	WIDTH: 50px
+}
+.TextBox {
+	PADDING-LEFT: 2px; PADDING-TOP: 2px; HEIGHT: 13px
+}
+TEXTAREA.TextBox {
+	FONT-SIZE: 11px; OVERFLOW: auto; WIDTH: 340px; HEIGHT: 120px
+}
+.Wide TEXTAREA {
+	WIDTH: 340px
+}
+UNKNOWN {
+	MARGIN: 3px
+}
+.CheckBox {
+	MARGIN-RIGHT: 5px
+}
+.CheckBox INPUT {
+	MARGIN-RIGHT: 5px
+}
+.RadioButton {
+	MARGIN-RIGHT: 5px
+}
+.RadioButton INPUT {
+	MARGIN-RIGHT: 5px
+}
+.CheckBox INPUT {
+	FLOAT: left
+}
+.RadioButtonList TD {
+	PADDING-RIGHT: 10px; VERTICAL-ALIGN: top; WIDTH: 50%
+}
+.CheckBoxList TD {
+	PADDING-RIGHT: 10px; VERTICAL-ALIGN: top; WIDTH: 50%
+}
+.InputBlock .CheckBoxList INPUT {
+	FLOAT: left
+}
+.InputBlock .RadioButtonList INPUT {
+	FLOAT: left
+}
+.InputBlock .CheckBoxList LABEL {
+	CLEAR: none; DISPLAY: block; FLOAT: none; MARGIN: 1px 0px 0px 22px; WIDTH: auto
+}
+.InputBlock .RadioButtonList LABEL {
+	CLEAR: none; DISPLAY: block; FLOAT: none; MARGIN: 1px 0px 0px 22px; WIDTH: auto
+}
+SPAN.RadioButtonList BR {
+	DISPLAY: block; MARGIN-BOTTOM: 5px
+}
+SPAN.RadioButtonList INPUT {
+	MARGIN-RIGHT: 5px
+}
+.ErrorLabel {
+	COLOR: #cc0000
+}
+.ErrorList UL {
+	MARGIN: 0px; COLOR: #cc0000; LIST-STYLE-TYPE: none
+}
+.StandardForm .ErrorList {
+	MARGIN-LEFT: 155px
+}
+.ErrorIndicator {
+	MARGIN-LEFT: 5px; VERTICAL-ALIGN: top; COLOR: #ff0000
+}
+.Drop {
+	
+}
+.Drop LABEL {
+	CLEAR: both; MARGIN-TOP: 10px; DISPLAY: block
+}
+.Drop .Select {
+	BORDER-RIGHT: #c3c3c3 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #c3c3c3 1px solid; DISPLAY: block; BACKGROUND: url(/Images/DropDownListBg.gif) #fff no-repeat right top; FLOAT: left; OVERFLOW: hidden; BORDER-LEFT: #c3c3c3 1px solid; WIDTH: 153px; BORDER-BOTTOM: #c3c3c3 1px solid; HEIGHT: 14px
+}
+.Drop .Display {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 1px; MARGIN: 0px 1px; FONT: 1em Arial; WIDTH: 149px; CURSOR: default; COLOR: #333333; PADDING-TOP: 1px; HEIGHT: 12px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+UNKNOWN {
+	MARGIN: 1px
+}
+.Drop .Display:unknown {
+	COLOR: #333333; BACKGROUND-COLOR: #d9d9d9
+}
+.Drop INPUT.Focus {
+	COLOR: #333333; BACKGROUND-COLOR: #d9d9d9
+}
+.DropItems .Active {
+	COLOR: #333333; BACKGROUND-COLOR: #d9d9d9
+}
+.DropItems .Active A {
+	COLOR: #333333; BACKGROUND-COLOR: #d9d9d9
+}
+.DropItems {
+	BORDER-RIGHT: #b5b5b5 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #b5b5b5 1px solid; OVERFLOW-Y: auto; PADDING-LEFT: 0px; Z-INDEX: 200; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #b5b5b5 1px solid; WIDTH: 150px; CURSOR: default; PADDING-TOP: 0px; BORDER-BOTTOM: #b5b5b5 1px solid; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+.DropItems LI {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; WIDTH: auto; CURSOR: default; PADDING-TOP: 1px
+}
+.DropItems A {
+	DISPLAY: block
+}
+.DropItems A:hover {
+	TEXT-DECORATION: none
+}
+.Drop LABEL {
+	CLEAR: left; DISPLAY: block; FLOAT: left; MARGIN: 0px; WIDTH: 120px
+}
+.InputBlock LABEL {
+	CLEAR: left; DISPLAY: block; FLOAT: left; MARGIN: 0px; WIDTH: 120px
+}
+.Drop .Select {
+	MARGIN-BOTTOM: 5px; HEIGHT: 16px
+}
+.Drop .Button {
+	MARGIN-LEFT: 5px
+}
+.BlockHeader {
+	MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; BORDER-BOTTOM: #d9d9d9 1px solid
+}
+.AlternatingList .Even {
+	BACKGROUND-COLOR: #fff
+}
+.AlternatingList .Odd {
+	BACKGROUND-COLOR: #eee
+}
+.PlainList .ListItem {
+	
+}
+.FileUpload {
+	FONT-SIZE: 1em; HEIGHT: 17px
+}

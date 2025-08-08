@@ -1,0 +1,258 @@
+.Login {
+	BACKGROUND: url(/images/contentblocks/LoginBackground.gif) #f1ead8 repeat-x; WIDTH: 169px
+}
+.Logout {
+	BACKGROUND: url(/images/contentblocks/LoginBackground.gif) #f1ead8 repeat-x; WIDTH: 169px
+}
+.Login .Logo {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 0px; BACKGROUND: url(/images/contentblocks/LoginHeader.gif) #a9001f no-repeat; PADDING-BOTTOM: 0px; PADDING-TOP: 7px; HEIGHT: 15px; TEXT-ALIGN: right
+}
+.Logout .Logo {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 0px; BACKGROUND: url(/images/contentblocks/LoginHeader.gif) #a9001f no-repeat; PADDING-BOTTOM: 0px; PADDING-TOP: 7px; HEIGHT: 15px; TEXT-ALIGN: right
+}
+.Login .RetrievePassword {
+	COLOR: #fff
+}
+.Login .Inner {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.Logout .Inner {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.Login .ErrorLabel {
+	DISPLAY: block; MARGIN: 10px 0px
+}
+.Login .CheckBox {
+	MARGIN-BOTTOM: 5px; COLOR: #999
+}
+.Login .Inner IMG {
+	VERTICAL-ALIGN: middle
+}
+.Login .Inner A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 10px; COLOR: #999; PADDING-TOP: 10px
+}
+.Login .TextBox {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; COLOR: #999; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 16px! important
+}
+.Login .UserName {
+	VERTICAL-ALIGN: middle; WIDTH: 140px
+}
+.Login .Password {
+	VERTICAL-ALIGN: middle; WIDTH: 115px
+}
+.Login .LoginButton {
+	LEFT: 4px; POSITION: relative; TOP: 2px
+}
+.SimpleTeaser {
+	BACKGROUND-IMAGE: url(/images/contentblocks/SimpleTeaserBackground.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #efe7de
+}
+.SimpleTeaser A {
+	DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND-IMAGE: url(/images/contentblocks/SimpleTeaserButton.gif); BACKGROUND-REPEAT: no-repeat
+}
+.SimpleTeaser A IMG {
+	DISPLAY: block
+}
+.Teaser .Text {
+	FLOAT: right; WIDTH: 170px
+}
+.Teaser .Image {
+	FLOAT: left
+}
+.Teaser .Right .Text {
+	FLOAT: left
+}
+.Teaser .Right .Image {
+	FLOAT: right
+}
+.CountrySelector .Selector {
+	MARGIN-BOTTOM: 10px
+}
+.CountrySelector .Selector .Bullet {
+	FLOAT: left; POSITION: relative; TOP: -4px
+}
+.CountrySelector .Selector .Drop {
+	FLOAT: right
+}
+.CountrySelector .Drop .Select {
+	PADDING-RIGHT: 13px; WIDTH: 137px
+}
+.CountrySelector .Drop .Display {
+	WIDTH: 131px
+}
+.NewsList A {
+	DISPLAY: block
+}
+.NewsList .Image {
+	FLOAT: left
+}
+.NewsList .Text {
+	FLOAT: right; WIDTH: 190px
+}
+.ToolBlock .Functions {
+	FLOAT: left; WIDTH: 170px
+}
+.ToolBlock .Contact {
+	MARGIN-TOP: 15px
+}
+.ToolBlock .TipFriend {
+	BORDER-RIGHT: #b5b5b5 1px solid; BORDER-TOP: #b5b5b5 1px solid; FLOAT: right; OVERFLOW: hidden; BORDER-LEFT: #b5b5b5 1px solid; WIDTH: 170px; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+.ToolBlock .TipFriend .TipInner {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(/images/TipBG.gif) #ffffff repeat-x; PADDING-BOTTOM: 10px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #ffffff 1px solid
+}
+.ToolBlock .TextBox {
+	FONT-WEIGHT: bold; COLOR: #999
+}
+.ToolBlock .TipFromBox {
+	VERTICAL-ALIGN: middle; WIDTH: 140px
+}
+.ToolBlock .TipToBox {
+	VERTICAL-ALIGN: middle; WIDTH: 120px
+}
+.ToolBlock .TipButton {
+	POSITION: relative; TOP: 3px
+}
+.DocumentListing {
+	MARGIN-TOP: 20px
+}
+.DocumentListing .Info {
+	FLOAT: left
+}
+.DocumentListing .Icon {
+	VERTICAL-ALIGN: middle
+}
+.DocumentListing .ListItem {
+	BORDER-TOP: #b5b5b5 1px solid; MARGIN-TOP: 10px; PADDING-TOP: 10px
+}
+.DocumentListing .Footer {
+	BORDER-TOP: #b5b5b5 1px solid; MARGIN-TOP: 10px; PADDING-TOP: 10px
+}
+.DocumentListing .Download {
+	FLOAT: right; WIDTH: 100px; PADDING-TOP: 19px
+}
+.UserDetails H2 {
+	MARGIN-TOP: 10px
+}
+.UserDetails .News {
+	BORDER-BOTTOM-STYLE: none
+}
+.UserDetails .Bullet {
+	DISPLAY: block; FLOAT: left
+}
+.RegisterEmail .Bullet {
+	DISPLAY: block; FLOAT: left
+}
+.DocumentListing .Paging .Bullet {
+	DISPLAY: block; FLOAT: left
+}
+.NoImage .Text {
+	FLOAT: none; WIDTH: auto
+}
+.Push .Intro {
+	DISPLAY: block; MARGIN-BOTTOM: 20px
+}
+.Push .ScaledImage {
+	FLOAT: left; MARGIN: 0px 10px 10px 0px
+}
+.Intro {
+	FONT-WEIGHT: bold; COLOR: #333333; FONT-STYLE: italic
+}
+.Report LABEL {
+	CLEAR: left; DISPLAY: block; FLOAT: left; MARGIN: 0px; WIDTH: 160px
+}
+.Report .CheckBox LABEL {
+	DISPLAY: inline; FLOAT: none
+}
+.Report .InputBlock {
+	MARGIN: 0px
+}
+.Report .InputBlock .TextBox {
+	MARGIN: 0px
+}
+.Report .TextBox {
+	WIDTH: 170px
+}
+.Report .DropDownList {
+	WIDTH: 170px
+}
+.Report .Upload LABEL {
+	WIDTH: 160px
+}
+.Report .Upload INPUT.TextBox {
+	HEIGHT: auto
+}
+.Report H2 {
+	MARGIN-TOP: 10px
+}
+.Report .TextArea LABEL {
+	MARGIN-TOP: 5px; FLOAT: none; WIDTH: 340px
+}
+.Report TEXTAREA.TextBox {
+	WIDTH: 340px
+}
+.Search LABEL {
+	FLOAT: left; MARGIN: 0px; WIDTH: 150px
+}
+.Search .BulletButton {
+	MARGIN: 10px 0px
+}
+.ShowResults IMG {
+	VERTICAL-ALIGN: middle; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none
+}
+.ShowResults {
+	DISPLAY: block; MARGIN-LEFT: 10px
+}
+.Search .TSG LABEL {
+	DISPLAY: block; FONT-SIZE: 11px; FLOAT: none; MARGIN: 0px 0px 5px; WIDTH: 350px; FONT-FAMILY: Arial,Sans-Serif
+}
+.Search .TSG SPAN.InputLabel {
+	DISPLAY: block; FONT-SIZE: 11px; FLOAT: none; MARGIN: 0px 0px 5px; WIDTH: 350px; FONT-FAMILY: Arial,Sans-Serif
+}
+.Search .TSG SELECT {
+	DISPLAY: block; FONT-SIZE: 11px; FLOAT: none; MARGIN: 0px 0px 5px; WIDTH: 350px; FONT-FAMILY: Arial,Sans-Serif
+}
+.Search .TSG .Drop B {
+	DISPLAY: block; FONT-SIZE: 11px; FLOAT: none; MARGIN: 0px 0px 5px; WIDTH: 350px; FONT-FAMILY: Arial,Sans-Serif
+}
+.Search .TSG OPTION {
+	WIDTH: auto
+}
+.Search .TSGTools A {
+	FLOAT: right; MARGIN-BOTTOM: 2px
+}
+.Search .DataGrid {
+	WIDTH: 350px
+}
+.Search .DataGrid TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 4px
+}
+.Search .DataGrid TH {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 4px
+}
+.Search .DataGrid .GridHeader {
+	BACKGROUND-COLOR: #cccccc
+}
+.Search .DataGrid .Alt {
+	BACKGROUND-COLOR: #eeeeee
+}
+TABLE.listing TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TABLE.Listing TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.AlternatingListing .ListLink {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.AlternatingListing .alternating0 {
+	BACKGROUND-COLOR: #eeeeee
+}
+.ContactUsBox {
+	BORDER-RIGHT: rgb(221,221,221) 1px solid; BORDER-TOP: rgb(221,221,221) 1px solid; FONT-SIZE: 11px; MARGIN: 8px 0px 16px; VERTICAL-ALIGN: top; BORDER-LEFT: rgb(221,221,221) 1px solid; WIDTH: 365px; BORDER-BOTTOM: rgb(221,221,221) 1px solid; TEXT-ALIGN: left
+}
+.ContactUsRow {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 13px; PADDING-BOTTOM: 8px; PADDING-TOP: 7px; BORDER-BOTTOM: rgb(221,221,221) 1px solid; BACKGROUND-COLOR: rgb(239,239,239)
+}
+.ContactUsButton {
+	BORDER-RIGHT: rgb(221,221,221) 1px solid; BORDER-TOP: rgb(221,221,221) 1px solid; BACKGROUND: rgb(173,0,24); BORDER-LEFT: rgb(221,221,221) 1px solid; COLOR: white; BORDER-BOTTOM: rgb(221,221,221) 1px solid
+}

@@ -1,0 +1,48 @@
+.Hidden {
+	BORDER-RIGHT: #ddd 1px dotted; BORDER-TOP: #ddd 1px dotted; MARGIN: 10px; BORDER-LEFT: #ddd 1px dotted; BORDER-BOTTOM: #ddd 1px dotted
+}
+#Debug {
+	RIGHT: 20px; POSITION: fixed; TOP: 20px
+}
+#Debugger {
+	WIDTH: 500px; HEIGHT: 400px
+}
+#ddl22-Container {
+	RIGHT: 20px; POSITION: absolute; TOP: 50px
+}
+.DropDown {
+	BORDER-RIGHT: #c3c3c3 1px solid; PADDING-RIGHT: 17px; BORDER-TOP: #c3c3c3 1px solid; DISPLAY: block; BACKGROUND: url(/Images/DropDown.gif) #fff no-repeat right center; BORDER-LEFT: #c3c3c3 1px solid; WIDTH: 131px; BORDER-BOTTOM: #c3c3c3 1px solid; TEXT-ALIGN: left
+}
+.DropDown INPUT {
+	BORDER-RIGHT: #fff 1px dotted; PADDING-RIGHT: 1px; BORDER-TOP: #fff 1px dotted; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #fff 1px dotted; WIDTH: 129px; CURSOR: default; PADDING-TOP: 1px; BORDER-BOTTOM: #fff 1px dotted; BACKGROUND-COLOR: transparent
+}
+UNKNOWN {
+	MARGIN: 1px; WIDTH: 129px
+}
+.DropDown INPUT:unknown {
+	BORDER-LEFT-COLOR: #666; BORDER-BOTTOM-COLOR: #666; BORDER-TOP-COLOR: #666; BORDER-RIGHT-COLOR: #666
+}
+.DropDown INPUT.DropDown-Focus {
+	BACKGROUND-COLOR: #cdcdbe
+}
+.DropDown-Items {
+	BORDER-RIGHT: #d1d1d1 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #d1d1d1 1px solid; PADDING-LEFT: 0px; Z-INDEX: 200; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #d1d1d1 1px solid; WIDTH: 150px; CURSOR: default; PADDING-TOP: 0px; BORDER-BOTTOM: #d1d1d1 1px solid; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+.DropDown-Active {
+	BACKGROUND-COLOR: #cdcdbe
+}
+.DropDown-Active A {
+	BACKGROUND-COLOR: #cdcdbe
+}
+.DropDown-Items LI {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; WIDTH: auto; CURSOR: default; PADDING-TOP: 1px
+}
+.DropDown-Selected A:hover {
+	TEXT-DECORATION: none
+}
+.DropDown-Items LI.DropDown-Selected {
+	BACKGROUND-COLOR: #cdcdbe
+}
+.DropDown-Items LI A {
+	DISPLAY: block
+}
